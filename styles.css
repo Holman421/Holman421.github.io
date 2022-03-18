@@ -1,0 +1,63 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    color:rgb(19, 19, 19);
+}
+
+body {
+    background-image: url(/myFirstWebsite/assets/topography.png)
+}
+
+.uvodka {
+    background-color: #333333 ;
+    text-align: right;
+    padding: 10px 50px 10px 0px;
+    margin: -10px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 3px;
+    left: 50px;
+    padding-left: 10%;
+}
+
+a {
+    color:deeppink;
+    padding-right: 25px ;
+}
+
+.text {
+    margin-left: 50px;
+    padding: 10%;
+    margin-top: -90px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 30px;
+    color: deeppink;
+}
+
+p {
+    font-size: 18px;
+}
+
+.tecky {
+    font-size: 70px;
+    text-align: center;
+    margin-top: -80px;
+    color:dimgrey;
+}
+
+
+.text2 {
+    margin-left: 50px;
+    padding: 10%;
+    margin-top: -130px;
+    font-size: 18px;
+}
